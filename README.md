@@ -4,8 +4,6 @@ Twitcher is a website that allows birdwatching aficionados to collab online. Use
 
 Built with JavaScript, HTML, Materialize CSS, Node.js, Express, Sequelize, Nodemailer, Handlebars, eBird API, and bcrypt.
 
-Link to deployed application: https://triangle-twitchers.herokuapp.com/
-
 Link to GitHub repository: https://github.com/beatricekallen/twitcher
 
 Contributors: Amy Nikitas, Beatrice Allen, Brittany Young, and Lauren Lattanzi
